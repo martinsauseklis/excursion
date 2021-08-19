@@ -28,3 +28,7 @@ h3 {
     color: gray;
     font-weight: normal;
 }
+
+footer h3 {
+    text-align: right;
+}
